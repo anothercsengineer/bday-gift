@@ -15,7 +15,7 @@ const comfortaa = Comfortaa({
 });
 
 export const metadata: Metadata = {
-  title: "TAPRI - Contemporary Indie Radio",
+  title: "HAPPY BIRTHDAY SISTER!",
   description: "A synchronized, real-time contemporary indie radio experience.",
 };
 

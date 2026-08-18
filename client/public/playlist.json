@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "title": "Bole Chudiyan",
+        "url": "/music/track5.mp3",
+        "duration": 408,
+        "cover": "/images/cover5.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Ek Hazaaron Mein Meri Behna Hai",
+        "url": "/music/track6.mp3",
+        "duration": 309,
+        "cover": ""
+    },
+    {
+        "id": "3",
+        "title": "Pal Pal Har Pal",
+        "url": "/music/track7.mp3",
+        "duration": 273,
+        "cover": "/images/cover7.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Pretty Woman",
+        "url": "/music/track8.mp3",
+        "duration": 354,
+        "cover": "/images/cover8.jpg"
+    }
+]

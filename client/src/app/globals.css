@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+.font-bebas { font-family: var(--font-bebas); }
+.font-comfortaa { font-family: var(--font-comfortaa); }

@@ -16,7 +16,6 @@ const comfortaa = Comfortaa({
 
 export const metadata: Metadata = {
   title: "HAPPY BIRTHDAY SISTER!",
-  description: "A synchronized, real-time contemporary indie radio experience.",
 };
 
 export default function RootLayout({ children }: Readonly<{children: React.ReactNode;}>) {
